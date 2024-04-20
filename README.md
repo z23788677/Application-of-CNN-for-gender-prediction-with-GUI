@@ -1,6 +1,6 @@
-# Egnlish version in blow
+### Egnlish version in blow
 
-### 這是一個基於CNN神經網路，透過大量人臉圖片訓練，給予人臉圖片識別，並推測性別。並且透過GUI(Tkinter)介面給予使用者方便使用
+# 這是一個基於卷積神經網路(CNN)，透過大量人臉圖片訓練，給予人臉圖片識別，並推測性別。並且透過GUI(Tkinter)介面給予使用者方便使用
 
 ![tutorial](https://github.com/z23788677/Application-of-CNN-for-gender-prediction-with-GUI/assets/85629602/8e0bcf37-e02b-433b-a2f2-df42d20c3c5e)
 
@@ -31,7 +31,7 @@ pip install numpy
 pip install tesnorflow
 
 
-##This is a project based on Convolutional Neural Networks (CNN), trained using a large dataset of facial images, for gender prediction. Additionally, it provides users with ease of use through a GUI (Tkinter) interface
+# This is a project based on Convolutional Neural Networks (CNN), trained using a large dataset of facial images, for gender prediction. Additionally, it provides users with ease of use through a GUI (Tkinter) interface
 
 Dataset provided by Ashutosh Chauhan(Link in Dataset_url)
 
