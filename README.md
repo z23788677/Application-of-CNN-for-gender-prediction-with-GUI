@@ -25,9 +25,13 @@ pip install Pillow
 pip install numpy
 
 若想使用model_training.py需要下列資料包(In order to use model_training.py must install following package)
+
 pip install opencv-python 
+
 pip install matplotlib
+
 pip install numpy
+
 pip install tesnorflow
 
 
