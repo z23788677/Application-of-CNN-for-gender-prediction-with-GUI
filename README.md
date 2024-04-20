@@ -1,5 +1,6 @@
-(English version in blow)
-##這是一個基於CNN神經網路，透過大量人臉圖片訓練，給予人臉圖片識別，並推測性別。並且透過GUI(Tkinter)介面給予使用者方便使用
+# Egnlish version in blow
+
+### 這是一個基於CNN神經網路，透過大量人臉圖片訓練，給予人臉圖片識別，並推測性別。並且透過GUI(Tkinter)介面給予使用者方便使用
 
 ![tutorial](https://github.com/z23788677/Application-of-CNN-for-gender-prediction-with-GUI/assets/85629602/8e0bcf37-e02b-433b-a2f2-df42d20c3c5e)
 
