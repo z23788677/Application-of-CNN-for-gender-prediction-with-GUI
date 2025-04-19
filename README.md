@@ -2,7 +2,7 @@
 
 # 這是一個基於卷積神經網路(CNN)，透過大量人臉圖片訓練，給予人臉圖片識別，並推測性別。並且透過GUI(Tkinter)介面給予使用者方便使用
 
-![tutorial](https://github.com/z23788677/Application-of-CNN-for-gender-prediction-with-GUI/assets/85629602/8e0bcf37-e02b-433b-a2f2-df42d20c3c5e)
+![image](https://github.com/z23788677/Application-of-CNN-for-gender-prediction-with-GUI/assets/85629602/8e0bcf37-e02b-433b-a2f2-df42d20c3c5e)
 
 使用由Ashutosh Chauhan提供之Dataset(連結請看檔案Dataset_url)
 
